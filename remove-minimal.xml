@@ -583,9 +583,9 @@
     <remove-project name="platform/hardware/qcom/power" />
     <remove-project name="platform/hardware/qcom/sdm845/bt" />
     <remove-project name="platform/hardware/qcom/sdm845/data/ipacfg-mgr" />
-    <remove-project name="platform/hardware/qcom/sdm845/display" />
+    <!-- <remove-project name="platform/hardware/qcom/sdm845/display" /> -->
     <remove-project name="platform/hardware/qcom/sdm845/gps" />
-    <remove-project name="platform/hardware/qcom/sdm845/media" />
+    <!-- <remove-project name="platform/hardware/qcom/sdm845/media" /> -->
     <remove-project name="platform/hardware/qcom/sdm845/thermal" />
     <remove-project name="platform/hardware/qcom/sdm845/vr" />
     <remove-project name="platform/hardware/qcom/sm7150/gps" />
@@ -599,7 +599,7 @@
     <remove-project name="platform/hardware/qcom/sm8150/thermal" />
     <remove-project name="platform/hardware/qcom/sm8150/vr" />
     <remove-project name="platform/hardware/qcom/sm8150p/gps" />
-    <remove-project name="platform/hardware/qcom/wlan"/>
+    <!-- <remove-project name="platform/hardware/qcom/wlan"/> -->
     <remove-project name="platform/hardware/ril" />
     <remove-project name="platform/hardware/samsung/nfc"/>
     <remove-project name="platform/hardware/st/nfc"/>
