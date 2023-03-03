@@ -814,7 +814,6 @@
     <remove-project name="platform/tools/idea"/>
     <remove-project name="platform/tools/motodev"/>
     <remove-project name="platform/tools/ndkports"/>
-    <remove-project name="platform/tools/repohooks"/>
     <remove-project name="platform/tools/security"/>
     <remove-project name="platform/tools/studio/cloud"/>
     <remove-project name="platform/tools/swt"/>
