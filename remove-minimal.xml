@@ -556,8 +556,8 @@
     <remove-project name="platform/hardware/google/camera" />
     <remove-project name="platform/hardware/google/easel"/>
     <!-- <remove-project name="platform/hardware/google/gchips" /> -->
-    <remove-project name="platform/hardware/google/graphics/common" />
-    <remove-project name="platform/hardware/google/graphics/gs101" />
+    <!-- <remove-project name="platform/hardware/google/graphics/common" /> -->
+    <!-- <remove-project name="platform/hardware/google/graphics/gs101" /> -->
     <remove-project name="platform/hardware/google/interfaces"/>
     <remove-project name="platform/hardware/google/pixel"/>
     <remove-project name="platform/hardware/google/pixel-sepolicy" />
