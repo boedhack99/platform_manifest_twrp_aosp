@@ -781,7 +781,7 @@
     <remove-project name="platform/system/testing/gtest_extras" />
 
     <!-- Remove platform/test/vts to avoid the test errors and more dependencies -->
-    <remove-project name="platform/test/app_compat/csuite" />
+    <!-- <remove-project name="platform/test/app_compat/csuite" /> -->
     <remove-project name="platform/test/catbox" />
     <remove-project name="platform/test/cts-root" />
     <remove-project name="platform/test/framework"/>
